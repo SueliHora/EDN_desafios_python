@@ -4,7 +4,7 @@
 
 Este repositório contém a solução para uma série de exercícios práticos, criados para solidificar os conceitos fundamentais de programação.
 
-## 🎯 Desafios Resolvidos
+## Desafios Resolvidos
 
 O script `AtividadePratica01.py` contém os seguintes programas:
 
